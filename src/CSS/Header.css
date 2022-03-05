@@ -1,0 +1,23 @@
+.brandname h3 {
+    align-items: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.navbarcontainer {
+    max-width: 91% !important;
+    margin: auto;
+    padding-top: 18px;
+}
+
+.nav-link {
+    font-size: 18px;
+    padding: 0px 27px !important;
+    color: black !important;
+    letter-spacing: 0.025em;
+}
+
+.nav-link:focus {
+    color: black !important;
+    text-decoration: underline;
+}

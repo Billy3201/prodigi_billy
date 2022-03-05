@@ -1,0 +1,89 @@
+.homeabout h2{
+    text-transform: uppercase;
+    max-width: 91%;
+    margin-left: auto;
+    margin-top: 20px;
+    line-height: 45px;
+    letter-spacing: 0.03em;
+}
+
+.homeabout p{
+    text-align: justify;
+    font-size: 14px;
+    line-height: 42px;
+    text-transform: capitalize;
+    margin-left: auto;
+    max-width: 91%;
+}
+
+.homeabout Button {
+    background-color: #6487F0 ;
+    text-transform: capitalize;
+    width: 140px;
+    height: 40px;
+    margin-left: 65px;
+    border-radius: 5px;
+}
+
+.insuranceheader h2{
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.insurancelist h3{
+    margin-top: 12px;
+}
+
+.insurancelist p{
+    max-width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.viewall Button{
+    width: 130px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    background-color: transparent;
+    color:#6487F0;
+    border: 2px solid #6487F0;
+    text-transform: capitalize;
+}
+
+.viewall Button:hover{
+    background-color: #6487F0;
+    border: none;
+}
+
+/*Section 3*/
+
+.privilegepart h1{
+    text-transform: uppercase;
+    letter-spacing: 0.015em;
+    margin-bottom: 3px;
+}
+
+.privilegepart p{
+    letter-spacing: 0.015em;
+    max-width: 96%;
+}
+
+.privilegepart img{
+    margin-right: 10px;
+}
+
+.privilegedetail h5{
+    margin-left: 5px;
+    margin-bottom: 2px;
+}
+
+.privilegedetail p{
+    margin-left: 5px;
+}
+
+
+

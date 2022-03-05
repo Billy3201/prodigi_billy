@@ -1,0 +1,9 @@
+.searchInput input{
+    width: 400px;
+    height: 37px;
+    margin: 25px 0px 40px 0px !important;
+}
+
+.searchResult{
+    text-decoration: none !important;
+}

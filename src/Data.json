@@ -1,0 +1,75 @@
+[
+    {
+        "id": "1",
+        "name": "Home Insurance",
+        "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description": "Home Insurance explanation Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image": "/Images/home.png",
+        "alt": "home_picture",
+        "Polis": ""
+    },
+    {
+        "id": "2",
+        "name": "Life Insurance",
+        "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description": "Life Insurance explanation Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image": "/Images/life.png",
+        "alt": "life_picture"
+    },
+    {
+        "id": "3",
+        "name": "Health Insurance",
+        "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description": "Health Insurance explanation Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image": "/Images/health.png",
+        "alt": "health_picture"
+    },
+    {
+        "id": "4",
+        "name": "Car Insurance",
+        "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description": " Car Insurance explanation Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image": "/Images/car.png",
+        "alt": "car_picture"
+    },
+    {
+        "id": "5",
+        "name": "Business Insurance",
+        "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description": "Business Insurance explanation Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image": "/Images/business.png",
+        "alt": "business_picture"
+    },
+    {
+        "id": "6",
+        "name": "Travel Insurance",
+        "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description": "Travel Insurance explanation Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image": "/Images/travel.png",
+        "alt": "travel_picture"
+    },
+    {
+        "id": "7",
+        "name": "Pet Insurance",
+        "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description": "Pet Insurance explanationLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image": "/Images/travel.png",
+        "alt": "travel_picture"
+    },
+    {
+        "id": "8",
+        "name": "Item Insurance",
+        "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description": "Item Insurance explanation Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image": "/Images/travel.png",
+        "alt": "travel_picture"
+    },
+    {
+        "id": "9",
+        "name": "Shipment Insurance",
+        "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description": "Shipment Insurance explanation Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image": "/Images/travel.png",
+        "alt": "travel_picture"
+    }
+]

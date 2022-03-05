@@ -1,0 +1,27 @@
+.detailheader h1{
+    margin: 30px 0px 30px 0px;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+}
+
+.pagedetail h1{
+    text-transform: capitalize;
+    letter-spacing: 0.05em;
+}
+
+.pagedetail p{
+    max-width: 92%;
+    text-align: justify;
+    line-height: 2.1em;
+}
+
+.pagedetail Button{
+    width: 150px;
+    height: 40px;
+    background-color: #6487F0;
+}
+
+.detailheader p{
+    max-width: 60%;
+    margin: auto;
+}
